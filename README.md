@@ -1,9 +1,6 @@
 # California-Housing-Regression
 Linear Regression project with feature engineering and data preprocessing ( My first Linear Regression Project)
 
-
-# California Housing Price Prediction
-
 A machine learning project that predicts housing prices in California
 using Linear Regression, with a focus on feature engineering and
 data preprocessing.
